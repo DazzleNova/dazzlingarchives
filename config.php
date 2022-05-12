@@ -2,23 +2,23 @@
 
 return [
     'production' => false,
-    'baseUrl' => 'https://artisanstatic.netlify.app',
+    'baseUrl' => 'https://dazzlingarchives.netlify.app',
     'site' => [
-        'title' => 'My Jigsaw Blog',
-        'description' => 'Personal blog of John Doe.',
+        'title' => 'MDazzling Archives',
+        'description' => 'My archive of art and stuff',
         'image' => 'default-share.png',
     ],
     'owner' => [
-        'name' => 'John Doe',
+        'name' => 'DazzleBlitz',
     ],
     'links' => [
-        'twitter' => 'https://twitter.com/johndoe',
-        'github' => 'https://github.com/johndoe',
+        'Website' => 'https://dazzlinggleam.space',
+        'Misskey' => 'https://misskey.io/@dazzle',
     ],
     'services' => [
         'cmsVersion' => '~2.10',
         'analytics' => 'UA-XXXXX-Y',
-        'disqus' => 'artisanstatic',
+        'disqus' => '',
         'formcarry' => 'XXXXXXXXXXXX',
         'cloudinary' => [
             'cloudName' => 'artisanstatic',
