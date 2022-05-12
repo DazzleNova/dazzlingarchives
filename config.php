@@ -4,12 +4,12 @@ return [
     'production' => false,
     'baseUrl' => 'https://dazzlingarchives.netlify.app',
     'site' => [
-        'title' => 'MDazzling Archives',
+        'title' => 'Dazzling Archives',
         'description' => 'My archive of art and stuff',
         'image' => 'default-share.png',
     ],
     'owner' => [
-        'name' => 'DazzleBlitz',
+        'name' => 'DazzlingGleam',
     ],
     'links' => [
         'Website' => 'https://dazzlinggleam.space',
@@ -18,7 +18,7 @@ return [
     'services' => [
         'cmsVersion' => '~2.10',
         'analytics' => 'UA-XXXXX-Y',
-        'disqus' => '',
+        'disqus' => '/',
         'formcarry' => 'XXXXXXXXXXXX',
         'cloudinary' => [
             'cloudName' => 'artisanstatic',
