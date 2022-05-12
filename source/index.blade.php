@@ -1,7 +1,7 @@
 @extends('_layouts.master')
 
 @section('content')
-    <h1>Welcome to The Archives of my Website</h1>
+    <h1>Welcome to DazzlingGleam's Archive</h1>
 
     <p>Here's is the archives that weren't uploaded to my main website because I don't want to increase the total size of my website and don't want to bloat it.</p>
 
