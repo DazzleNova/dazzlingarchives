@@ -21,8 +21,8 @@ return [
         'disqus' => '/',
         'formcarry' => 'XXXXXXXXXXXX',
         'cloudinary' => [
-            'cloudName' => 'artisanstatic',
-            'apiKey' => '365895137117119',
+            'cloudName' => 'dnefy52id',
+            'apiKey' => '871764842329746',
         ],
     ],
     'collections' => [
