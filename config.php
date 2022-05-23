@@ -22,7 +22,7 @@ return [
         'formcarry' => 'XXXXXXXXXXXX',
         'cloudinary' => [
             'cloudName' => 'dnefy52id',
-            'apiKey' => '996184318116347',
+            'apiKey' => '871764842329746',
         ],
     ],
     'collections' => [
